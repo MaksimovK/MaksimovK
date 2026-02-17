@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2V5bGNxY3Q2d3FqZzNlZ2U3d3c1d2p1b2N0dXJ6eWl2cDl0eW1odyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="40">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2V5bGNxY3Q2d3FqZzNlZ2U3d3c1d2p1b2N0dXJ6eWl2cDl0eW1odyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 
 # Привет 👋 Меня зовут Кирилл!
 
@@ -16,7 +16,7 @@ Fullstack-разработчик с коммерческим опытом соз
 🔹 **Ключевые направления:**
 - Разработка кроссплатформенных мобильных приложений на **React Native CLI** (B2B-решения «с нуля»)
 - Создание высоконагруженных веб-интерфейсов на **Next.js**
-- Бэкенд-разработка на **NestJS** и **Express**
+- Бэкенд-разработка на **NestJS**
 - Интеграция внешних сервисов, оптимизация производительности, поддержка кода
 
 💼 **Коммерческие проекты:**
@@ -50,9 +50,6 @@ Fullstack-разработчик с коммерческим опытом соз
   </a>
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="50" height="50" alt="NestJS" title="NestJS"/>
-  </a>
-   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="50" height="50" alt="PostgreSQL" title="PostgreSQL"/>
